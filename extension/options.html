@@ -1,0 +1,17 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Fill my application: settings</title>
+<style>
+  body { font: 14px/1.5 -apple-system, system-ui, sans-serif; max-width: 460px; margin: 40px auto; padding: 0 16px; color: #111; }
+  h1 { font-size: 20px; letter-spacing: -.02em; } label { display: block; margin: 14px 0 6px; font-weight: 600; }
+  input { width: 100%; box-sizing: border-box; padding: 10px 12px; border: 1px solid #ddd; border-radius: 10px; font: inherit; }
+  button { margin-top: 18px; background: #111; color: #fff; border: 0; border-radius: 99px; padding: 10px 18px; font: 600 14px system-ui; cursor: pointer; }
+  p { color: #6f6c66; } #msg { color: #1f8a5b; font-weight: 600; }
+</style>
+<h1>Fill my application</h1>
+<p>Where your job pipeline's dashboard runs. On this Mac it's http://localhost:3000. After the move to the VPS, put its address and the dashboard login here.</p>
+<label for="server">Dashboard address</label><input id="server" placeholder="http://localhost:3000">
+<label for="user">Dashboard user (VPS only)</label><input id="user" autocomplete="off">
+<label for="pass">Dashboard password (VPS only)</label><input id="pass" type="password" autocomplete="off">
+<button id="save">Save</button> <span id="msg"></span>
+<script src="options.js"></script>

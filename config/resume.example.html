@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Your Name — CV</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Space Grotesk', system-ui, sans-serif; color: #2b2b2b; font-size: 9.1pt; line-height: 1.38; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .page { width: 210mm; height: 297mm; overflow: hidden; display: grid; grid-template-columns: 1fr 66mm; }
+  main { padding: 11mm 9mm 8mm 12mm; }
+  aside { background: #333; color: #eee; padding: 11mm 7mm 8mm 7mm; }
+  a { color: inherit; }
+  h1 { font-size: 23pt; letter-spacing: .04em; font-weight: 700; line-height: 1.05; color: #222; }
+  .role { font-size: 10.5pt; font-weight: 500; margin-top: 4px; color: #444; }
+  .meta { font-size: 9pt; color: #666; margin-top: 2px; }
+  .summary { margin: 12px 0 4px; padding: 11px 0; border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; color: #3a3a3a; }
+  h2 { font-size: 10.2pt; font-weight: 700; letter-spacing: .02em; text-transform: uppercase; margin: 11px 0 5px; color: #222; }
+  .item { margin-bottom: 7px; }
+  .item h3 { font-size: 9.8pt; font-weight: 600; color: #222; display: flex; justify-content: space-between; gap: 8px; }
+  .item h3 span { font-weight: 400; color: #777; white-space: nowrap; }
+  .item p { color: #555; margin-top: 1px; }
+  ul { padding-left: 14px; margin-top: 3px; }
+  li { margin-bottom: 1.5px; }
+  .work li b { font-weight: 600; color: #222; }
+  aside h4 { font-size: 8.8pt; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; margin: 0 0 6px; color: #fff; }
+  aside section { margin-bottom: 15px; }
+  aside ul { padding-left: 13px; }
+  aside li, aside p { font-size: 8.8pt; color: #ddd; }
+  aside .contact p { margin-bottom: 3px; }
+</style>
+</head>
+<body>
+<div class="page">
+<main>
+  <h1>ADA LOVELACE</h1>
+  <div class="role">Product Designer (UI/UX) · Design Engineer</div>
+  <div class="meta">Your city, Your country · <a href="https://yourportfolio.com">yourportfolio.com</a></div>
+
+  <p class="summary">Product designer with 4 years of experience designing web and mobile products. The tailor can replace this first sentence per job (profile.json → angles); the rest of the summary stays as you wrote it.</p>
+
+  <h2>Work experience</h2>
+  <div class="item">
+    <h3><span style="color:#222;font-weight:600">Product Designer — Example Co</span></h3>
+    <ul>
+      <li>Designed the checkout flow for a payments app (bullets are reordered so the ones matching the job come first)</li>
+      <li>Built and maintained the design system</li>
+      <li>Ran user research and turned it into design changes</li>
+    </ul>
+  </div>
+
+  <h2>Selected work</h2>
+  <ul class="work">
+    <li><b>Project one</b>: a fintech wallet, designed and built</li>
+    <li><b>Project two</b>: an admin dashboard for a delivery startup</li>
+  </ul>
+</main>
+
+<aside>
+  <section class="contact">
+    <h4>Contact</h4>
+    <p><a href="mailto:you@yourdomain.com">you@yourdomain.com</a></p>
+    <p><a href="https://yourportfolio.com">yourportfolio.com</a></p>
+  </section>
+  <section>
+    <h4>Design</h4>
+    <ul><li>Figma, prototyping, design systems</li></ul>
+  </section>
+  <section>
+    <h4>Build</h4>
+    <ul><li>React, React Native, TypeScript</li></ul>
+  </section>
+</aside>
+</div>
+</body>
+</html>

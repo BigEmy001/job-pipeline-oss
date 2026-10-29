@@ -1,0 +1,22 @@
+{
+  "name": "job-pipeline",
+  "private": false,
+  "type": "module",
+  "description": "A job hunt on autopilot: find roles, score them, tailor your resume, apply, read the replies.",
+  "scripts": {
+    "run": "node src/run.js",
+    "serve": "node src/server.js",
+    "check-boards": "node scripts/check-boards.js",
+    "setup": "node scripts/setup.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.19.17",
+    "hono": "^4.13.14",
+    "imapflow": "^1.7.8",
+    "mailparser": "^3.12.4",
+    "nodemailer": "^6.10.1",
+    "playwright": "^1.64.1",
+    "rss-parser": "^3.13.0"
+  },
+  "license": "MIT"
+}

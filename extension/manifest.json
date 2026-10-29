@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Fill my application",
+  "version": "1.0.0",
+  "description": "Fills job applications with your true answers and the resume tailored to each job. Never submits: you do.",
+  "permissions": ["storage", "scripting", "activeTab"],
+  "host_permissions": ["http://localhost:3000/*", "http://127.0.0.1:3000/*"],
+  "optional_host_permissions": ["https://*/*", "http://*/*"],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_title": "Fill this application" },
+  "options_page": "options.html",
+  "content_scripts": [{
+    "matches": ["*://*.greenhouse.io/*", "*://jobs.lever.co/*", "*://jobs.ashbyhq.com/*", "*://apply.workable.com/*", "*://*.bitwarden.com/careers/*"],
+    "js": ["filler.js", "content.js"],
+    "run_at": "document_idle",
+    "all_frames": true
+  }]
+}

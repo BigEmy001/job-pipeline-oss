@@ -1,0 +1,3858 @@
+[
+  {
+    "kind": "greenhouse",
+    "name": "gitlab",
+    "open": 237
+  },
+  {
+    "kind": "greenhouse",
+    "name": "remote",
+    "open": 2
+  },
+  {
+    "kind": "greenhouse",
+    "name": "canonical",
+    "open": 314
+  },
+  {
+    "kind": "greenhouse",
+    "name": "wikimedia",
+    "open": 15
+  },
+  {
+    "kind": "greenhouse",
+    "name": "mozilla",
+    "open": 121
+  },
+  {
+    "kind": "greenhouse",
+    "name": "grafanalabs",
+    "open": 133
+  },
+  {
+    "kind": "greenhouse",
+    "name": "elastic",
+    "open": 406
+  },
+  {
+    "kind": "greenhouse",
+    "name": "cloudflare",
+    "open": 459
+  },
+  {
+    "kind": "greenhouse",
+    "name": "vercel",
+    "open": 93
+  },
+  {
+    "kind": "ashby",
+    "name": "linear",
+    "open": 32
+  },
+  {
+    "kind": "ashby",
+    "name": "supabase",
+    "open": 64
+  },
+  {
+    "kind": "ashby",
+    "name": "posthog",
+    "open": 11
+  },
+  {
+    "kind": "greenhouse",
+    "name": "mercury",
+    "open": 76
+  },
+  {
+    "kind": "greenhouse",
+    "name": "ramp",
+    "open": 1
+  },
+  {
+    "kind": "ashby",
+    "name": "ramp",
+    "open": 172
+  },
+  {
+    "kind": "ashby",
+    "name": "oyster",
+    "open": 24
+  },
+  {
+    "kind": "ashby",
+    "name": "zapier",
+    "open": 12
+  },
+  {
+    "kind": "greenhouse",
+    "name": "figma",
+    "open": 142
+  },
+  {
+    "kind": "ashby",
+    "name": "webflow",
+    "open": 18
+  },
+  {
+    "kind": "ashby",
+    "name": "notion",
+    "open": 139
+  },
+  {
+    "kind": "greenhouse",
+    "name": "airtable",
+    "open": 4
+  },
+  {
+    "kind": "ashby",
+    "name": "miro",
+    "open": 12
+  },
+  {
+    "kind": "greenhouse",
+    "name": "calendly",
+    "open": 8
+  },
+  {
+    "kind": "greenhouse",
+    "name": "intercom",
+    "open": 101
+  },
+  {
+    "kind": "ashby",
+    "name": "resend",
+    "open": 14
+  },
+  {
+    "kind": "ashby",
+    "name": "clerk",
+    "open": 1
+  },
+  {
+    "kind": "greenhouse",
+    "name": "planetscale",
+    "open": 11
+  },
+  {
+    "kind": "ashby",
+    "name": "railway",
+    "open": 7
+  },
+  {
+    "kind": "ashby",
+    "name": "render",
+    "open": 35
+  },
+  {
+    "kind": "greenhouse",
+    "name": "netlify",
+    "open": 4
+  },
+  {
+    "kind": "ashby",
+    "name": "replit",
+    "open": 32
+  },
+  {
+    "kind": "greenhouse",
+    "name": "coinbase",
+    "open": 227
+  },
+  {
+    "kind": "greenhouse",
+    "name": "moniepoint",
+    "open": 139
+  },
+  {
+    "kind": "ashby",
+    "name": "andela",
+    "open": 15
+  },
+  {
+    "kind": "greenhouse",
+    "name": "turing",
+    "open": 36
+  },
+  {
+    "kind": "lever",
+    "name": "toptal",
+    "open": 28
+  },
+  {
+    "kind": "greenhouse",
+    "name": "wise",
+    "open": 21
+  },
+  {
+    "kind": "greenhouse",
+    "name": "monzo",
+    "open": 66
+  },
+  {
+    "kind": "greenhouse",
+    "name": "n26",
+    "open": 32
+  },
+  {
+    "kind": "ashby",
+    "name": "plaid",
+    "open": 129
+  },
+  {
+    "kind": "greenhouse",
+    "name": "stripe",
+    "open": 716
+  },
+  {
+    "kind": "greenhouse",
+    "name": "brex",
+    "open": 261
+  },
+  {
+    "kind": "greenhouse",
+    "name": "gusto",
+    "open": 93
+  },
+  {
+    "kind": "greenhouse",
+    "name": "lattice",
+    "open": 9
+  },
+  {
+    "kind": "greenhouse",
+    "name": "squarespace",
+    "open": 27
+  },
+  {
+    "kind": "greenhouse",
+    "name": "duolingo",
+    "open": 58
+  },
+  {
+    "kind": "lever",
+    "name": "spotify",
+    "open": 89
+  },
+  {
+    "kind": "greenhouse",
+    "name": "dropbox",
+    "open": 21
+  },
+  {
+    "kind": "greenhouse",
+    "name": "discord",
+    "open": 46
+  },
+  {
+    "kind": "greenhouse",
+    "name": "reddit",
+    "open": 163
+  },
+  {
+    "kind": "greenhouse",
+    "name": "pinterest",
+    "open": 160
+  },
+  {
+    "kind": "greenhouse",
+    "name": "twitch",
+    "open": 62
+  },
+  {
+    "kind": "ashby",
+    "name": "1password",
+    "open": 88
+  },
+  {
+    "kind": "greenhouse",
+    "name": "bitwarden",
+    "open": 34
+  },
+  {
+    "kind": "greenhouse",
+    "name": "proton",
+    "open": 20
+  },
+  {
+    "kind": "ashby",
+    "name": "sanity",
+    "open": 33
+  },
+  {
+    "kind": "greenhouse",
+    "name": "contentful",
+    "open": 29
+  },
+  {
+    "kind": "greenhouse",
+    "name": "storyblok",
+    "open": 14
+  },
+  {
+    "kind": "greenhouse",
+    "name": "typeform",
+    "open": 10
+  },
+  {
+    "kind": "ashby",
+    "name": "contra",
+    "open": 7
+  },
+  {
+    "kind": "greenhouse",
+    "name": "upwork",
+    "open": 7
+  },
+  {
+    "kind": "ashby",
+    "name": "alchemy",
+    "open": 22
+  },
+  {
+    "kind": "greenhouse",
+    "name": "consensys",
+    "open": 11
+  },
+  {
+    "kind": "ashby",
+    "name": "consensys",
+    "open": 8
+  },
+  {
+    "kind": "ashby",
+    "name": "uniswap",
+    "open": 9
+  },
+  {
+    "kind": "ashby",
+    "name": "phantom",
+    "open": 14
+  },
+  {
+    "kind": "greenhouse",
+    "name": "binance",
+    "open": 251
+  },
+  {
+    "kind": "lever",
+    "name": "binance",
+    "open": 6
+  },
+  {
+    "kind": "greenhouse",
+    "name": "bybit",
+    "open": 155
+  },
+  {
+    "kind": "greenhouse",
+    "name": "okx",
+    "open": 371
+  },
+  {
+    "kind": "greenhouse",
+    "name": "bitpanda",
+    "open": 33
+  },
+  {
+    "kind": "greenhouse",
+    "name": "luno",
+    "open": 2
+  },
+  {
+    "kind": "ashby",
+    "name": "sift",
+    "from": "yc",
+    "company": "Sift"
+  },
+  {
+    "kind": "ashby",
+    "name": "circuithub",
+    "from": "yc",
+    "company": "CircuitHub"
+  },
+  {
+    "kind": "ashby",
+    "name": "rescale",
+    "from": "yc",
+    "company": "Rescale"
+  },
+  {
+    "kind": "ashby",
+    "name": "amplitude",
+    "from": "yc",
+    "company": "Amplitude"
+  },
+  {
+    "kind": "ashby",
+    "name": "ycombinator",
+    "from": "yc",
+    "company": "Y Combinator"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "hackerrank",
+    "from": "yc",
+    "company": "HackerRank"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "goatgroup",
+    "from": "yc",
+    "company": "GOAT Group"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "instacart",
+    "from": "yc",
+    "company": "Instacart"
+  },
+  {
+    "kind": "ashby",
+    "name": "padlet",
+    "from": "yc",
+    "company": "Padlet"
+  },
+  {
+    "kind": "ashby",
+    "name": "influxdata",
+    "from": "yc",
+    "company": "InfluxData"
+  },
+  {
+    "kind": "ashby",
+    "name": "radar",
+    "from": "yc",
+    "company": "RADAR"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "lob",
+    "from": "yc",
+    "company": "Lob"
+  },
+  {
+    "kind": "ashby",
+    "name": "cambly",
+    "from": "yc",
+    "company": "Cambly"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "algolia",
+    "from": "yc",
+    "company": "Algolia"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "flexport",
+    "from": "yc",
+    "company": "Flexport"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "checkr",
+    "from": "yc",
+    "company": "Checkr"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "picnicai",
+    "from": "yc",
+    "company": "PicnicAI"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "hive",
+    "from": "yc",
+    "company": "Hive"
+  },
+  {
+    "kind": "ashby",
+    "name": "magic",
+    "from": "yc",
+    "company": "Magic"
+  },
+  {
+    "kind": "ashby",
+    "name": "tempo",
+    "from": "yc",
+    "company": "Tempo"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "qventus",
+    "from": "yc",
+    "company": "Qventus"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "ginkgobioworks",
+    "from": "yc",
+    "company": "Ginkgo Bioworks"
+  },
+  {
+    "kind": "ashby",
+    "name": "snapmagic",
+    "from": "yc",
+    "company": "SnapMagic"
+  },
+  {
+    "kind": "ashby",
+    "name": "reach",
+    "from": "yc",
+    "company": "Reach"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "givecampus",
+    "from": "yc",
+    "company": "GiveCampus"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "xendit",
+    "from": "yc",
+    "company": "Xendit"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "bitmovin",
+    "from": "yc",
+    "company": "Bitmovin"
+  },
+  {
+    "kind": "ashby",
+    "name": "eightsleep",
+    "from": "yc",
+    "company": "Eight Sleep"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "instawork",
+    "from": "yc",
+    "company": "Instawork"
+  },
+  {
+    "kind": "ashby",
+    "name": "deepgram",
+    "from": "yc",
+    "company": "Deepgram"
+  },
+  {
+    "kind": "lever",
+    "name": "mashgin",
+    "from": "yc",
+    "company": "Mashgin"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "humaninterest",
+    "from": "yc",
+    "company": "Human Interest"
+  },
+  {
+    "kind": "lever",
+    "name": "tovala",
+    "from": "yc",
+    "company": "Tovala"
+  },
+  {
+    "kind": "ashby",
+    "name": "castle",
+    "from": "yc",
+    "company": "Castle"
+  },
+  {
+    "kind": "ashby",
+    "name": "gecko-robotics",
+    "from": "yc",
+    "company": "Gecko Robotics"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "sendbird",
+    "from": "yc",
+    "company": "Sendbird"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "apolloio",
+    "from": "yc",
+    "company": "Apollo.io"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "astranis",
+    "from": "yc",
+    "company": "Astranis"
+  },
+  {
+    "kind": "lever",
+    "name": "thunkable",
+    "from": "yc",
+    "company": "Thunkable"
+  },
+  {
+    "kind": "ashby",
+    "name": "billiontoone",
+    "from": "yc",
+    "company": "BillionToOne"
+  },
+  {
+    "kind": "ashby",
+    "name": "vetcove",
+    "from": "yc",
+    "company": "Vetcove"
+  },
+  {
+    "kind": "ashby",
+    "name": "onechronos",
+    "from": "yc",
+    "company": "OneChronos"
+  },
+  {
+    "kind": "lever",
+    "name": "netomi",
+    "from": "yc",
+    "company": "Netomi"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "legalist",
+    "from": "yc",
+    "company": "Legalist"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "novacredit",
+    "from": "yc",
+    "company": "Nova Credit"
+  },
+  {
+    "kind": "ashby",
+    "name": "classdojo",
+    "from": "yc",
+    "company": "ClassDojo"
+  },
+  {
+    "kind": "ashby",
+    "name": "speak",
+    "from": "yc",
+    "company": "Speak"
+  },
+  {
+    "kind": "lever",
+    "name": "meesho",
+    "from": "yc",
+    "company": "Meesho"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "scaleai",
+    "from": "yc",
+    "company": "Scale AI"
+  },
+  {
+    "kind": "ashby",
+    "name": "clipboard",
+    "from": "yc",
+    "company": "Clipboard"
+  },
+  {
+    "kind": "ashby",
+    "name": "mednet",
+    "from": "yc",
+    "company": "Mednet"
+  },
+  {
+    "kind": "lever",
+    "name": "multiplylabs",
+    "from": "yc",
+    "company": "Multiply Labs"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "aon3d",
+    "from": "yc",
+    "company": "AON3D"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "faire",
+    "from": "yc",
+    "company": "Faire"
+  },
+  {
+    "kind": "lever",
+    "name": "people-ai",
+    "from": "yc",
+    "company": "People.ai"
+  },
+  {
+    "kind": "ashby",
+    "name": "upcodes",
+    "from": "yc",
+    "company": "UpCodes"
+  },
+  {
+    "kind": "ashby",
+    "name": "prelim",
+    "from": "yc",
+    "company": "Prelim"
+  },
+  {
+    "kind": "lever",
+    "name": "snappr",
+    "from": "yc",
+    "company": "Snappr"
+  },
+  {
+    "kind": "lever",
+    "name": "vergesense",
+    "from": "yc",
+    "company": "VergeSense"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "assemblyai",
+    "from": "yc",
+    "company": "AssemblyAI"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "maymobility",
+    "from": "yc",
+    "company": "May Mobility"
+  },
+  {
+    "kind": "ashby",
+    "name": "spellbrush",
+    "from": "yc",
+    "company": "Spellbrush"
+  },
+  {
+    "kind": "lever",
+    "name": "skyways",
+    "from": "yc",
+    "company": "Skyways"
+  },
+  {
+    "kind": "ashby",
+    "name": "vanta",
+    "from": "yc",
+    "company": "Vanta"
+  },
+  {
+    "kind": "ashby",
+    "name": "promise",
+    "from": "yc",
+    "company": "Promise"
+  },
+  {
+    "kind": "ashby",
+    "name": "assembly",
+    "from": "yc",
+    "company": "Assembly"
+  },
+  {
+    "kind": "lever",
+    "name": "biorender",
+    "from": "yc",
+    "company": "BioRender"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "modernhealth",
+    "from": "yc",
+    "company": "Modern Health"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "pelago",
+    "from": "yc",
+    "company": "Pelago"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "groww",
+    "from": "yc",
+    "company": "Groww"
+  },
+  {
+    "kind": "ashby",
+    "name": "runa",
+    "from": "yc",
+    "company": "Runa"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "swayable",
+    "from": "yc",
+    "company": "Swayable"
+  },
+  {
+    "kind": "lever",
+    "name": "captivateiq",
+    "from": "yc",
+    "company": "CaptivateIQ"
+  },
+  {
+    "kind": "ashby",
+    "name": "revenuecat",
+    "from": "yc",
+    "company": "RevenueCat"
+  },
+  {
+    "kind": "ashby",
+    "name": "moderntreasury",
+    "from": "yc",
+    "company": "Modern Treasury"
+  },
+  {
+    "kind": "ashby",
+    "name": "titan",
+    "from": "yc",
+    "company": "Titan"
+  },
+  {
+    "kind": "ashby",
+    "name": "versemedical",
+    "from": "yc",
+    "company": "Verse Medical"
+  },
+  {
+    "kind": "ashby",
+    "name": "duffel",
+    "from": "yc",
+    "company": "Duffel"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "meruhealth",
+    "from": "yc",
+    "company": "Meru Health"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "prodigal",
+    "from": "yc",
+    "company": "Prodigal"
+  },
+  {
+    "kind": "ashby",
+    "name": "mutiny",
+    "from": "yc",
+    "company": "Mutiny"
+  },
+  {
+    "kind": "ashby",
+    "name": "overview",
+    "from": "yc",
+    "company": "Overview"
+  },
+  {
+    "kind": "lever",
+    "name": "canarytechnologies",
+    "from": "yc",
+    "company": "Canary Technologies"
+  },
+  {
+    "kind": "ashby",
+    "name": "kalshi",
+    "from": "yc",
+    "company": "Kalshi"
+  },
+  {
+    "kind": "ashby",
+    "name": "golinks",
+    "from": "yc",
+    "company": "GoLinks"
+  },
+  {
+    "kind": "ashby",
+    "name": "middesk",
+    "from": "yc",
+    "company": "Middesk"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "postscript",
+    "from": "yc",
+    "company": "Postscript"
+  },
+  {
+    "kind": "ashby",
+    "name": "ashby",
+    "from": "yc",
+    "company": "Ashby"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "nabis",
+    "from": "yc",
+    "company": "Nabis"
+  },
+  {
+    "kind": "ashby",
+    "name": "probablygenetic",
+    "from": "yc",
+    "company": "Probably Genetic"
+  },
+  {
+    "kind": "ashby",
+    "name": "bunkerhillhealth",
+    "from": "yc",
+    "company": "Bunkerhill Health"
+  },
+  {
+    "kind": "ashby",
+    "name": "caribou",
+    "from": "yc",
+    "company": "Caribou"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "alpaca",
+    "from": "yc",
+    "company": "Alpaca"
+  },
+  {
+    "kind": "ashby",
+    "name": "atlas",
+    "from": "yc",
+    "company": "Atlas"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "odeko",
+    "from": "yc",
+    "company": "Odeko"
+  },
+  {
+    "kind": "ashby",
+    "name": "shortstory",
+    "from": "yc",
+    "company": "Short Story"
+  },
+  {
+    "kind": "ashby",
+    "name": "trm-labs",
+    "from": "yc",
+    "company": "TRM Labs"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "prolific",
+    "from": "yc",
+    "company": "Prolific"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "pairteam",
+    "from": "yc",
+    "company": "Pair Team"
+  },
+  {
+    "kind": "lever",
+    "name": "mytos",
+    "from": "yc",
+    "company": "Mytos"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "recidiviz",
+    "from": "yc",
+    "company": "Recidiviz"
+  },
+  {
+    "kind": "ashby",
+    "name": "freshpaint",
+    "from": "yc",
+    "company": "Freshpaint"
+  },
+  {
+    "kind": "ashby",
+    "name": "curri",
+    "from": "yc",
+    "company": "Curri"
+  },
+  {
+    "kind": "lever",
+    "name": "fampay",
+    "from": "yc",
+    "company": "FamPay"
+  },
+  {
+    "kind": "ashby",
+    "name": "deepnote",
+    "from": "yc",
+    "company": "Deepnote"
+  },
+  {
+    "kind": "ashby",
+    "name": "wonderly",
+    "from": "yc",
+    "company": "Wonderly"
+  },
+  {
+    "kind": "ashby",
+    "name": "vorticity",
+    "from": "yc",
+    "company": "Vorticity"
+  },
+  {
+    "kind": "ashby",
+    "name": "accord",
+    "from": "yc",
+    "company": "Accord"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "porter",
+    "from": "yc",
+    "company": "Porter"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "ophelia",
+    "from": "yc",
+    "company": "Ophelia"
+  },
+  {
+    "kind": "ashby",
+    "name": "ditto",
+    "from": "yc",
+    "company": "Ditto"
+  },
+  {
+    "kind": "ashby",
+    "name": "benepass",
+    "from": "yc",
+    "company": "Benepass"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "haven",
+    "from": "yc",
+    "company": "Haven"
+  },
+  {
+    "kind": "ashby",
+    "name": "ello",
+    "from": "yc",
+    "company": "Ello"
+  },
+  {
+    "kind": "ashby",
+    "name": "vori",
+    "from": "yc",
+    "company": "Vori"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "generalproximity",
+    "from": "yc",
+    "company": "General Proximity"
+  },
+  {
+    "kind": "ashby",
+    "name": "candidhealth",
+    "from": "yc",
+    "company": "Candid Health"
+  },
+  {
+    "kind": "ashby",
+    "name": "aios",
+    "from": "yc",
+    "company": "AIOS"
+  },
+  {
+    "kind": "ashby",
+    "name": "junction",
+    "from": "yc",
+    "company": "Junction"
+  },
+  {
+    "kind": "ashby",
+    "name": "stable",
+    "from": "yc",
+    "company": "Stable"
+  },
+  {
+    "kind": "ashby",
+    "name": "belvo",
+    "from": "yc",
+    "company": "Belvo"
+  },
+  {
+    "kind": "ashby",
+    "name": "zip",
+    "from": "yc",
+    "company": "Zip"
+  },
+  {
+    "kind": "ashby",
+    "name": "luminai",
+    "from": "yc",
+    "company": "Luminai"
+  },
+  {
+    "kind": "ashby",
+    "name": "roboflow",
+    "from": "yc",
+    "company": "Roboflow"
+  },
+  {
+    "kind": "ashby",
+    "name": "datafold",
+    "from": "yc",
+    "company": "Datafold"
+  },
+  {
+    "kind": "ashby",
+    "name": "lightdash",
+    "from": "yc",
+    "company": "Lightdash"
+  },
+  {
+    "kind": "ashby",
+    "name": "atob",
+    "from": "yc",
+    "company": "AtoB"
+  },
+  {
+    "kind": "ashby",
+    "name": "blissway",
+    "from": "yc",
+    "company": "Blissway"
+  },
+  {
+    "kind": "ashby",
+    "name": "atomic",
+    "from": "yc",
+    "company": "Atomic"
+  },
+  {
+    "kind": "lever",
+    "name": "doola",
+    "from": "yc",
+    "company": "doola"
+  },
+  {
+    "kind": "ashby",
+    "name": "notabene",
+    "from": "yc",
+    "company": "Notabene"
+  },
+  {
+    "kind": "ashby",
+    "name": "kingdom",
+    "from": "yc",
+    "company": "Kingdom"
+  },
+  {
+    "kind": "ashby",
+    "name": "hotplate",
+    "from": "yc",
+    "company": "Hotplate"
+  },
+  {
+    "kind": "ashby",
+    "name": "flint",
+    "from": "yc",
+    "company": "Flint"
+  },
+  {
+    "kind": "ashby",
+    "name": "arketa",
+    "from": "yc",
+    "company": "Arketa"
+  },
+  {
+    "kind": "ashby",
+    "name": "taktile",
+    "from": "yc",
+    "company": "Taktile"
+  },
+  {
+    "kind": "ashby",
+    "name": "ready",
+    "from": "yc",
+    "company": "Ready"
+  },
+  {
+    "kind": "ashby",
+    "name": "finch",
+    "from": "yc",
+    "company": "Finch"
+  },
+  {
+    "kind": "ashby",
+    "name": "glimpse",
+    "from": "yc",
+    "company": "Glimpse"
+  },
+  {
+    "kind": "ashby",
+    "name": "fieldguide",
+    "from": "yc",
+    "company": "Fieldguide"
+  },
+  {
+    "kind": "ashby",
+    "name": "abacum",
+    "from": "yc",
+    "company": "Abacum"
+  },
+  {
+    "kind": "ashby",
+    "name": "authzed",
+    "from": "yc",
+    "company": "authzed"
+  },
+  {
+    "kind": "ashby",
+    "name": "runway",
+    "from": "yc",
+    "company": "Runway"
+  },
+  {
+    "kind": "ashby",
+    "name": "humaans",
+    "from": "yc",
+    "company": "Humaans"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "albedo",
+    "from": "yc",
+    "company": "Albedo"
+  },
+  {
+    "kind": "ashby",
+    "name": "signoz",
+    "from": "yc",
+    "company": "SigNoz"
+  },
+  {
+    "kind": "ashby",
+    "name": "spruceid",
+    "from": "yc",
+    "company": "SpruceID"
+  },
+  {
+    "kind": "ashby",
+    "name": "encord",
+    "from": "yc",
+    "company": "Encord"
+  },
+  {
+    "kind": "ashby",
+    "name": "axle-health",
+    "from": "yc",
+    "company": "Axle Health"
+  },
+  {
+    "kind": "lever",
+    "name": "smartcuts",
+    "from": "yc",
+    "company": "Smartcuts"
+  },
+  {
+    "kind": "ashby",
+    "name": "vapi",
+    "from": "yc",
+    "company": "Vapi"
+  },
+  {
+    "kind": "ashby",
+    "name": "camber",
+    "from": "yc",
+    "company": "Camber"
+  },
+  {
+    "kind": "lever",
+    "name": "gridware",
+    "from": "yc",
+    "company": "Gridware"
+  },
+  {
+    "kind": "ashby",
+    "name": "popl",
+    "from": "yc",
+    "company": "Popl"
+  },
+  {
+    "kind": "ashby",
+    "name": "anima",
+    "from": "yc",
+    "company": "Anima"
+  },
+  {
+    "kind": "ashby",
+    "name": "liveflow",
+    "from": "yc",
+    "company": "LiveFlow"
+  },
+  {
+    "kind": "ashby",
+    "name": "greatquestion",
+    "from": "yc",
+    "company": "Great Question"
+  },
+  {
+    "kind": "ashby",
+    "name": "enode",
+    "from": "yc",
+    "company": "Enode"
+  },
+  {
+    "kind": "ashby",
+    "name": "topline-pro",
+    "from": "yc",
+    "company": "Topline Pro"
+  },
+  {
+    "kind": "ashby",
+    "name": "homebase",
+    "from": "yc",
+    "company": "Homebase"
+  },
+  {
+    "kind": "ashby",
+    "name": "quicknode",
+    "from": "yc",
+    "company": "Quicknode"
+  },
+  {
+    "kind": "ashby",
+    "name": "phoenix",
+    "from": "yc",
+    "company": "Phoenix"
+  },
+  {
+    "kind": "ashby",
+    "name": "ziina",
+    "from": "yc",
+    "company": "Ziina"
+  },
+  {
+    "kind": "ashby",
+    "name": "flutterflow",
+    "from": "yc",
+    "company": "FlutterFlow"
+  },
+  {
+    "kind": "ashby",
+    "name": "svix",
+    "from": "yc",
+    "company": "Svix"
+  },
+  {
+    "kind": "ashby",
+    "name": "gigs",
+    "from": "yc",
+    "company": "Gigs"
+  },
+  {
+    "kind": "ashby",
+    "name": "jiga",
+    "from": "yc",
+    "company": "Jiga"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "prospa",
+    "from": "yc",
+    "company": "Prospa"
+  },
+  {
+    "kind": "ashby",
+    "name": "triomics",
+    "from": "yc",
+    "company": "Triomics"
+  },
+  {
+    "kind": "ashby",
+    "name": "shepherd",
+    "from": "yc",
+    "company": "Shepherd"
+  },
+  {
+    "kind": "ashby",
+    "name": "slope",
+    "from": "yc",
+    "company": "Slope"
+  },
+  {
+    "kind": "ashby",
+    "name": "odys-aviation",
+    "from": "yc",
+    "company": "Odys Aviation"
+  },
+  {
+    "kind": "ashby",
+    "name": "legionhealth",
+    "from": "yc",
+    "company": "Legion Health"
+  },
+  {
+    "kind": "ashby",
+    "name": "serifhealth",
+    "from": "yc",
+    "company": "Serif Health"
+  },
+  {
+    "kind": "ashby",
+    "name": "replo",
+    "from": "yc",
+    "company": "Replo"
+  },
+  {
+    "kind": "ashby",
+    "name": "arq",
+    "from": "yc",
+    "company": "ARQ"
+  },
+  {
+    "kind": "ashby",
+    "name": "confido",
+    "from": "yc",
+    "company": "Confido"
+  },
+  {
+    "kind": "ashby",
+    "name": "parallel-bio",
+    "from": "yc",
+    "company": "Parallel Bio"
+  },
+  {
+    "kind": "ashby",
+    "name": "double",
+    "from": "yc",
+    "company": "Double"
+  },
+  {
+    "kind": "ashby",
+    "name": "tavus",
+    "from": "yc",
+    "company": "Tavus"
+  },
+  {
+    "kind": "ashby",
+    "name": "kodex",
+    "from": "yc",
+    "company": "Kodex"
+  },
+  {
+    "kind": "ashby",
+    "name": "bree",
+    "from": "yc",
+    "company": "Bree"
+  },
+  {
+    "kind": "ashby",
+    "name": "formance",
+    "from": "yc",
+    "company": "Formance"
+  },
+  {
+    "kind": "ashby",
+    "name": "oneschema",
+    "from": "yc",
+    "company": "OneSchema"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "niraenergy",
+    "from": "yc",
+    "company": "Nira Energy"
+  },
+  {
+    "kind": "ashby",
+    "name": "aleph",
+    "from": "yc",
+    "company": "Aleph"
+  },
+  {
+    "kind": "ashby",
+    "name": "adaptyv",
+    "from": "yc",
+    "company": "Adaptyv"
+  },
+  {
+    "kind": "ashby",
+    "name": "zensors",
+    "from": "yc",
+    "company": "Zensors"
+  },
+  {
+    "kind": "ashby",
+    "name": "meticulous",
+    "from": "yc",
+    "company": "Meticulous"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "coast",
+    "from": "yc",
+    "company": "Coast"
+  },
+  {
+    "kind": "ashby",
+    "name": "mach9",
+    "from": "yc",
+    "company": "Mach9"
+  },
+  {
+    "kind": "lever",
+    "name": "bolster",
+    "from": "yc",
+    "company": "Bolster"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "dots",
+    "from": "yc",
+    "company": "Dots \ud83d\udcb8"
+  },
+  {
+    "kind": "ashby",
+    "name": "stepful",
+    "from": "yc",
+    "company": "Stepful"
+  },
+  {
+    "kind": "ashby",
+    "name": "turion-space",
+    "from": "yc",
+    "company": "Turion Space"
+  },
+  {
+    "kind": "ashby",
+    "name": "charge-robotics",
+    "from": "yc",
+    "company": "Charge Robotics"
+  },
+  {
+    "kind": "ashby",
+    "name": "nash",
+    "from": "yc",
+    "company": "Nash"
+  },
+  {
+    "kind": "ashby",
+    "name": "agave",
+    "from": "yc",
+    "company": "Agave"
+  },
+  {
+    "kind": "ashby",
+    "name": "sieve",
+    "from": "yc",
+    "company": "Sieve"
+  },
+  {
+    "kind": "ashby",
+    "name": "invert",
+    "from": "yc",
+    "company": "Invert"
+  },
+  {
+    "kind": "ashby",
+    "name": "happl",
+    "from": "yc",
+    "company": "Happl"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "beam",
+    "from": "yc",
+    "company": "Beam"
+  },
+  {
+    "kind": "ashby",
+    "name": "sphere",
+    "from": "yc",
+    "company": "Sphere"
+  },
+  {
+    "kind": "ashby",
+    "name": "mintlify",
+    "from": "yc",
+    "company": "Mintlify"
+  },
+  {
+    "kind": "ashby",
+    "name": "permitflow",
+    "from": "yc",
+    "company": "PermitFlow"
+  },
+  {
+    "kind": "ashby",
+    "name": "complete",
+    "from": "yc",
+    "company": "Complete"
+  },
+  {
+    "kind": "ashby",
+    "name": "posh",
+    "from": "yc",
+    "company": "Posh"
+  },
+  {
+    "kind": "ashby",
+    "name": "voize",
+    "from": "yc",
+    "company": "voize"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "agency",
+    "from": "yc",
+    "company": "Agency"
+  },
+  {
+    "kind": "ashby",
+    "name": "cinder",
+    "from": "yc",
+    "company": "Cinder"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "attain",
+    "from": "yc",
+    "company": "Attain"
+  },
+  {
+    "kind": "ashby",
+    "name": "spade",
+    "from": "yc",
+    "company": "Spade"
+  },
+  {
+    "kind": "ashby",
+    "name": "fleek",
+    "from": "yc",
+    "company": "Fleek"
+  },
+  {
+    "kind": "ashby",
+    "name": "rallyuxr",
+    "from": "yc",
+    "company": "Rally"
+  },
+  {
+    "kind": "ashby",
+    "name": "govdash",
+    "from": "yc",
+    "company": "GovDash"
+  },
+  {
+    "kind": "ashby",
+    "name": "eventual",
+    "from": "yc",
+    "company": "Eventual"
+  },
+  {
+    "kind": "ashby",
+    "name": "realitydefender",
+    "from": "yc",
+    "company": "Reality Defender"
+  },
+  {
+    "kind": "ashby",
+    "name": "stream",
+    "from": "yc",
+    "company": "Stream"
+  },
+  {
+    "kind": "ashby",
+    "name": "julius",
+    "from": "yc",
+    "company": "Julius"
+  },
+  {
+    "kind": "ashby",
+    "name": "tailor",
+    "from": "yc",
+    "company": "Tailor"
+  },
+  {
+    "kind": "ashby",
+    "name": "chariot",
+    "from": "yc",
+    "company": "Chariot"
+  },
+  {
+    "kind": "ashby",
+    "name": "novig",
+    "from": "yc",
+    "company": "Novig"
+  },
+  {
+    "kind": "ashby",
+    "name": "blee",
+    "from": "yc",
+    "company": "Blee"
+  },
+  {
+    "kind": "lever",
+    "name": "twodots",
+    "from": "yc",
+    "company": "Two Dots"
+  },
+  {
+    "kind": "ashby",
+    "name": "juicebox",
+    "from": "yc",
+    "company": "Juicebox"
+  },
+  {
+    "kind": "ashby",
+    "name": "tank-payments",
+    "from": "yc",
+    "company": "Tank Payments"
+  },
+  {
+    "kind": "ashby",
+    "name": "provision",
+    "from": "yc",
+    "company": "Provision"
+  },
+  {
+    "kind": "ashby",
+    "name": "thera",
+    "from": "yc",
+    "company": "Thera"
+  },
+  {
+    "kind": "ashby",
+    "name": "aurelian",
+    "from": "yc",
+    "company": "Aurelian"
+  },
+  {
+    "kind": "ashby",
+    "name": "metriport",
+    "from": "yc",
+    "company": "Metriport"
+  },
+  {
+    "kind": "ashby",
+    "name": "kombo",
+    "from": "yc",
+    "company": "Kombo"
+  },
+  {
+    "kind": "ashby",
+    "name": "quindar",
+    "from": "yc",
+    "company": "Quindar"
+  },
+  {
+    "kind": "ashby",
+    "name": "ekho",
+    "from": "yc",
+    "company": "Ekho"
+  },
+  {
+    "kind": "ashby",
+    "name": "aiprise",
+    "from": "yc",
+    "company": "AiPrise"
+  },
+  {
+    "kind": "ashby",
+    "name": "firecrawl",
+    "from": "yc",
+    "company": "Firecrawl"
+  },
+  {
+    "kind": "ashby",
+    "name": "oneleet",
+    "from": "yc",
+    "company": "Oneleet"
+  },
+  {
+    "kind": "ashby",
+    "name": "knowtex",
+    "from": "yc",
+    "company": "Knowtex"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "axle",
+    "from": "yc",
+    "company": "Axle"
+  },
+  {
+    "kind": "ashby",
+    "name": "cambio",
+    "from": "yc",
+    "company": "Cambio"
+  },
+  {
+    "kind": "ashby",
+    "name": "avoca",
+    "from": "yc",
+    "company": "Avoca"
+  },
+  {
+    "kind": "ashby",
+    "name": "infisical",
+    "from": "yc",
+    "company": "Infisical"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "reflex",
+    "from": "yc",
+    "company": "Reflex"
+  },
+  {
+    "kind": "ashby",
+    "name": "concourse",
+    "from": "yc",
+    "company": "Concourse"
+  },
+  {
+    "kind": "lever",
+    "name": "finn",
+    "from": "yc",
+    "company": "Finn"
+  },
+  {
+    "kind": "ashby",
+    "name": "latent",
+    "from": "yc",
+    "company": "Latent"
+  },
+  {
+    "kind": "ashby",
+    "name": "magicpatterns",
+    "from": "yc",
+    "company": "Magic Patterns"
+  },
+  {
+    "kind": "ashby",
+    "name": "nango",
+    "from": "yc",
+    "company": "Nango"
+  },
+  {
+    "kind": "ashby",
+    "name": "rollstack",
+    "from": "yc",
+    "company": "Rollstack"
+  },
+  {
+    "kind": "ashby",
+    "name": "numeral",
+    "from": "yc",
+    "company": "Numeral"
+  },
+  {
+    "kind": "ashby",
+    "name": "salient",
+    "from": "yc",
+    "company": "Salient"
+  },
+  {
+    "kind": "ashby",
+    "name": "tennr",
+    "from": "yc",
+    "company": "Tennr"
+  },
+  {
+    "kind": "ashby",
+    "name": "goveagle",
+    "from": "yc",
+    "company": "GovEagle"
+  },
+  {
+    "kind": "ashby",
+    "name": "coperniq",
+    "from": "yc",
+    "company": "Coperniq"
+  },
+  {
+    "kind": "ashby",
+    "name": "vooma",
+    "from": "yc",
+    "company": "Vooma"
+  },
+  {
+    "kind": "ashby",
+    "name": "pirros",
+    "from": "yc",
+    "company": "Pirros"
+  },
+  {
+    "kind": "ashby",
+    "name": "cosine",
+    "from": "yc",
+    "company": "Cosine"
+  },
+  {
+    "kind": "ashby",
+    "name": "kivo-health",
+    "from": "yc",
+    "company": "Kivo Health"
+  },
+  {
+    "kind": "ashby",
+    "name": "relace",
+    "from": "yc",
+    "company": "Relace"
+  },
+  {
+    "kind": "ashby",
+    "name": "inkeep",
+    "from": "yc",
+    "company": "Inkeep"
+  },
+  {
+    "kind": "ashby",
+    "name": "vitalize",
+    "from": "yc",
+    "company": "Vitalize"
+  },
+  {
+    "kind": "ashby",
+    "name": "invopop",
+    "from": "yc",
+    "company": "Invopop"
+  },
+  {
+    "kind": "ashby",
+    "name": "rivet",
+    "from": "yc",
+    "company": "Rivet"
+  },
+  {
+    "kind": "ashby",
+    "name": "pylon",
+    "from": "yc",
+    "company": "Pylon"
+  },
+  {
+    "kind": "ashby",
+    "name": "conduit",
+    "from": "yc",
+    "company": "Conduit"
+  },
+  {
+    "kind": "ashby",
+    "name": "vector",
+    "from": "yc",
+    "company": "Vector"
+  },
+  {
+    "kind": "ashby",
+    "name": "metal",
+    "from": "yc",
+    "company": "Metal"
+  },
+  {
+    "kind": "ashby",
+    "name": "finni-health",
+    "from": "yc",
+    "company": "Finni Health"
+  },
+  {
+    "kind": "ashby",
+    "name": "escape",
+    "from": "yc",
+    "company": "Escape"
+  },
+  {
+    "kind": "ashby",
+    "name": "litellm",
+    "from": "yc",
+    "company": "LiteLLM"
+  },
+  {
+    "kind": "ashby",
+    "name": "automat",
+    "from": "yc",
+    "company": "Automat"
+  },
+  {
+    "kind": "ashby",
+    "name": "hockeystack",
+    "from": "yc",
+    "company": "HockeyStack"
+  },
+  {
+    "kind": "ashby",
+    "name": "artie",
+    "from": "yc",
+    "company": "Artie"
+  },
+  {
+    "kind": "ashby",
+    "name": "twenty",
+    "from": "yc",
+    "company": "Twenty"
+  },
+  {
+    "kind": "ashby",
+    "name": "hyperbound",
+    "from": "yc",
+    "company": "Hyperbound"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "diligent",
+    "from": "yc",
+    "company": "Diligent"
+  },
+  {
+    "kind": "ashby",
+    "name": "casca",
+    "from": "yc",
+    "company": "Casca"
+  },
+  {
+    "kind": "ashby",
+    "name": "airgoods",
+    "from": "yc",
+    "company": "Airgoods"
+  },
+  {
+    "kind": "ashby",
+    "name": "solveintelligence",
+    "from": "yc",
+    "company": "Solve Intelligence"
+  },
+  {
+    "kind": "ashby",
+    "name": "electricair",
+    "from": "yc",
+    "company": "Electric Air"
+  },
+  {
+    "kind": "lever",
+    "name": "prosper",
+    "from": "yc",
+    "company": "Prosper"
+  },
+  {
+    "kind": "ashby",
+    "name": "terminal",
+    "from": "yc",
+    "company": "Terminal"
+  },
+  {
+    "kind": "ashby",
+    "name": "outset",
+    "from": "yc",
+    "company": "Outset"
+  },
+  {
+    "kind": "ashby",
+    "name": "fleetworks",
+    "from": "yc",
+    "company": "FleetWorks"
+  },
+  {
+    "kind": "ashby",
+    "name": "campfire",
+    "from": "yc",
+    "company": "Campfire"
+  },
+  {
+    "kind": "ashby",
+    "name": "decodahealth",
+    "from": "yc",
+    "company": "Decoda Health"
+  },
+  {
+    "kind": "ashby",
+    "name": "brettonai",
+    "from": "yc",
+    "company": "Bretton AI"
+  },
+  {
+    "kind": "ashby",
+    "name": "fortuna-health",
+    "from": "yc",
+    "company": "Fortuna Health"
+  },
+  {
+    "kind": "ashby",
+    "name": "sola",
+    "from": "yc",
+    "company": "Sola"
+  },
+  {
+    "kind": "ashby",
+    "name": "safetykit",
+    "from": "yc",
+    "company": "SafetyKit"
+  },
+  {
+    "kind": "ashby",
+    "name": "sweep",
+    "from": "yc",
+    "company": "Sweep"
+  },
+  {
+    "kind": "ashby",
+    "name": "proofofhuman",
+    "from": "yc",
+    "company": "Proof of Human"
+  },
+  {
+    "kind": "ashby",
+    "name": "andromedasurgical",
+    "from": "yc",
+    "company": "Andromeda Surgical"
+  },
+  {
+    "kind": "ashby",
+    "name": "langdock",
+    "from": "yc",
+    "company": "Langdock"
+  },
+  {
+    "kind": "ashby",
+    "name": "syntheticfi",
+    "from": "yc",
+    "company": "SyntheticFi"
+  },
+  {
+    "kind": "ashby",
+    "name": "pure",
+    "from": "yc",
+    "company": "Pure"
+  },
+  {
+    "kind": "ashby",
+    "name": "shadeform",
+    "from": "yc",
+    "company": "Shadeform"
+  },
+  {
+    "kind": "ashby",
+    "name": "nowadays",
+    "from": "yc",
+    "company": "Nowadays"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "morph",
+    "from": "yc",
+    "company": "Morph"
+  },
+  {
+    "kind": "ashby",
+    "name": "healthtech-1",
+    "from": "yc",
+    "company": "Healthtech 1"
+  },
+  {
+    "kind": "ashby",
+    "name": "event-horizon-labs",
+    "from": "yc",
+    "company": "Event Horizon Labs"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "flex",
+    "from": "yc",
+    "company": "Flex"
+  },
+  {
+    "kind": "ashby",
+    "name": "greptile",
+    "from": "yc",
+    "company": "Greptile"
+  },
+  {
+    "kind": "ashby",
+    "name": "legora",
+    "from": "yc",
+    "company": "Legora"
+  },
+  {
+    "kind": "ashby",
+    "name": "tekton-dynamics",
+    "from": "yc",
+    "company": "Tekton Dynamics"
+  },
+  {
+    "kind": "ashby",
+    "name": "reducto",
+    "from": "yc",
+    "company": "Reducto"
+  },
+  {
+    "kind": "ashby",
+    "name": "momentic",
+    "from": "yc",
+    "company": "Momentic"
+  },
+  {
+    "kind": "ashby",
+    "name": "tuesday-labs",
+    "from": "yc",
+    "company": "Tuesday Labs"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "newton",
+    "from": "yc",
+    "company": "Newton"
+  },
+  {
+    "kind": "ashby",
+    "name": "pointone",
+    "from": "yc",
+    "company": "PointOne"
+  },
+  {
+    "kind": "ashby",
+    "name": "pivotrobotics",
+    "from": "yc",
+    "company": "Pivot Robotics"
+  },
+  {
+    "kind": "ashby",
+    "name": "arini",
+    "from": "yc",
+    "company": "Arini"
+  },
+  {
+    "kind": "ashby",
+    "name": "paradigm",
+    "from": "yc",
+    "company": "Paradigm"
+  },
+  {
+    "kind": "ashby",
+    "name": "furtherai",
+    "from": "yc",
+    "company": "FurtherAI"
+  },
+  {
+    "kind": "ashby",
+    "name": "garage",
+    "from": "yc",
+    "company": "Garage"
+  },
+  {
+    "kind": "ashby",
+    "name": "artisan",
+    "from": "yc",
+    "company": "Artisan"
+  },
+  {
+    "kind": "ashby",
+    "name": "greenboard",
+    "from": "yc",
+    "company": "Greenboard"
+  },
+  {
+    "kind": "ashby",
+    "name": "clarion",
+    "from": "yc",
+    "company": "Clarion"
+  },
+  {
+    "kind": "ashby",
+    "name": "tamarindbio",
+    "from": "yc",
+    "company": "Tamarind Bio"
+  },
+  {
+    "kind": "ashby",
+    "name": "centralize",
+    "from": "yc",
+    "company": "Centralize"
+  },
+  {
+    "kind": "ashby",
+    "name": "astro-mechanica",
+    "from": "yc",
+    "company": "Astro Mechanica"
+  },
+  {
+    "kind": "ashby",
+    "name": "offdeal",
+    "from": "yc",
+    "company": "OffDeal"
+  },
+  {
+    "kind": "ashby",
+    "name": "opencall",
+    "from": "yc",
+    "company": "Opencall"
+  },
+  {
+    "kind": "ashby",
+    "name": "raindrop",
+    "from": "yc",
+    "company": "Raindrop"
+  },
+  {
+    "kind": "ashby",
+    "name": "circleback",
+    "from": "yc",
+    "company": "Circleback"
+  },
+  {
+    "kind": "ashby",
+    "name": "hazel",
+    "from": "yc",
+    "company": "Hazel"
+  },
+  {
+    "kind": "ashby",
+    "name": "brainbaselabs",
+    "from": "yc",
+    "company": "Brainbase Labs"
+  },
+  {
+    "kind": "ashby",
+    "name": "retell-ai",
+    "from": "yc",
+    "company": "Retell AI"
+  },
+  {
+    "kind": "ashby",
+    "name": "spur",
+    "from": "yc",
+    "company": "Spur"
+  },
+  {
+    "kind": "ashby",
+    "name": "reform",
+    "from": "yc",
+    "company": "Reform"
+  },
+  {
+    "kind": "ashby",
+    "name": "blacksmith",
+    "from": "yc",
+    "company": "Blacksmith"
+  },
+  {
+    "kind": "ashby",
+    "name": "ultra",
+    "from": "yc",
+    "company": "Ultra"
+  },
+  {
+    "kind": "ashby",
+    "name": "mem0",
+    "from": "yc",
+    "company": "Mem0"
+  },
+  {
+    "kind": "ashby",
+    "name": "claimsorted",
+    "from": "yc",
+    "company": "ClaimSorted"
+  },
+  {
+    "kind": "ashby",
+    "name": "codes-health",
+    "from": "yc",
+    "company": "Codes Health"
+  },
+  {
+    "kind": "ashby",
+    "name": "phonely",
+    "from": "yc",
+    "company": "Phonely"
+  },
+  {
+    "kind": "ashby",
+    "name": "firstwork",
+    "from": "yc",
+    "company": "FirstWork"
+  },
+  {
+    "kind": "ashby",
+    "name": "offstream",
+    "from": "yc",
+    "company": "Offstream"
+  },
+  {
+    "kind": "ashby",
+    "name": "dodo",
+    "from": "yc",
+    "company": "Dodo"
+  },
+  {
+    "kind": "ashby",
+    "name": "substrate",
+    "from": "yc",
+    "company": "Substrate"
+  },
+  {
+    "kind": "ashby",
+    "name": "anthrogen",
+    "from": "yc",
+    "company": "Anthrogen"
+  },
+  {
+    "kind": "ashby",
+    "name": "kastle",
+    "from": "yc",
+    "company": "Kastle"
+  },
+  {
+    "kind": "ashby",
+    "name": "conveo",
+    "from": "yc",
+    "company": "Conveo"
+  },
+  {
+    "kind": "ashby",
+    "name": "pulse",
+    "from": "yc",
+    "company": "Pulse"
+  },
+  {
+    "kind": "ashby",
+    "name": "clearly-ai",
+    "from": "yc",
+    "company": "Clearly AI"
+  },
+  {
+    "kind": "ashby",
+    "name": "david-ai",
+    "from": "yc",
+    "company": "David AI"
+  },
+  {
+    "kind": "ashby",
+    "name": "zeit-ai",
+    "from": "yc",
+    "company": "Zeit AI"
+  },
+  {
+    "kind": "ashby",
+    "name": "thundercompute",
+    "from": "yc",
+    "company": "Thunder Compute"
+  },
+  {
+    "kind": "ashby",
+    "name": "brighterway",
+    "from": "yc",
+    "company": "Brighterway"
+  },
+  {
+    "kind": "ashby",
+    "name": "simple-ai",
+    "from": "yc",
+    "company": "Simple AI"
+  },
+  {
+    "kind": "ashby",
+    "name": "dataleap",
+    "from": "yc",
+    "company": "Dataleap"
+  },
+  {
+    "kind": "ashby",
+    "name": "usul",
+    "from": "yc",
+    "company": "Usul"
+  },
+  {
+    "kind": "ashby",
+    "name": "verahealth",
+    "from": "yc",
+    "company": "Vera Health"
+  },
+  {
+    "kind": "ashby",
+    "name": "conductor",
+    "from": "yc",
+    "company": "Conductor"
+  },
+  {
+    "kind": "ashby",
+    "name": "telli",
+    "from": "yc",
+    "company": "telli"
+  },
+  {
+    "kind": "ashby",
+    "name": "ctgt",
+    "from": "yc",
+    "company": "CTGT"
+  },
+  {
+    "kind": "ashby",
+    "name": "abundant",
+    "from": "yc",
+    "company": "Abundant"
+  },
+  {
+    "kind": "ashby",
+    "name": "autumn",
+    "from": "yc",
+    "company": "Autumn"
+  },
+  {
+    "kind": "ashby",
+    "name": "capy",
+    "from": "yc",
+    "company": "Capy"
+  },
+  {
+    "kind": "ashby",
+    "name": "innate",
+    "from": "yc",
+    "company": "Innate"
+  },
+  {
+    "kind": "lever",
+    "name": "unusual",
+    "from": "yc",
+    "company": "Unusual"
+  },
+  {
+    "kind": "ashby",
+    "name": "ryvn",
+    "from": "yc",
+    "company": "Ryvn"
+  },
+  {
+    "kind": "ashby",
+    "name": "apolink",
+    "from": "yc",
+    "company": "Apolink"
+  },
+  {
+    "kind": "ashby",
+    "name": "reviserobotics",
+    "from": "yc",
+    "company": "Revise Robotics"
+  },
+  {
+    "kind": "ashby",
+    "name": "bild-ai",
+    "from": "yc",
+    "company": "Bild AI"
+  },
+  {
+    "kind": "ashby",
+    "name": "flowtel",
+    "from": "yc",
+    "company": "Flowtel"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "axiom",
+    "from": "yc",
+    "company": "Axiom"
+  },
+  {
+    "kind": "ashby",
+    "name": "salespatriot",
+    "from": "yc",
+    "company": "SalesPatriot"
+  },
+  {
+    "kind": "ashby",
+    "name": "weave",
+    "from": "yc",
+    "company": "Weave"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "osmosis",
+    "from": "yc",
+    "company": "Osmosis"
+  },
+  {
+    "kind": "ashby",
+    "name": "mosaic",
+    "from": "yc",
+    "company": "Mosaic"
+  },
+  {
+    "kind": "ashby",
+    "name": "hud",
+    "from": "yc",
+    "company": "HUD"
+  },
+  {
+    "kind": "ashby",
+    "name": "solidroad",
+    "from": "yc",
+    "company": "Solidroad"
+  },
+  {
+    "kind": "ashby",
+    "name": "infinite",
+    "from": "yc",
+    "company": "Infinite"
+  },
+  {
+    "kind": "ashby",
+    "name": "mesh",
+    "from": "yc",
+    "company": "Mesh"
+  },
+  {
+    "kind": "ashby",
+    "name": "afterquery",
+    "from": "yc",
+    "company": "AfterQuery"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "orbitaloperations",
+    "from": "yc",
+    "company": "Orbital Operations"
+  },
+  {
+    "kind": "ashby",
+    "name": "mercura",
+    "from": "yc",
+    "company": "Mercura"
+  },
+  {
+    "kind": "ashby",
+    "name": "ambral",
+    "from": "yc",
+    "company": "Ambral"
+  },
+  {
+    "kind": "ashby",
+    "name": "chestnut",
+    "from": "yc",
+    "company": "Chestnut"
+  },
+  {
+    "kind": "ashby",
+    "name": "auctor",
+    "from": "yc",
+    "company": "Auctor"
+  },
+  {
+    "kind": "ashby",
+    "name": "claim-health",
+    "from": "yc",
+    "company": "Claim Health"
+  },
+  {
+    "kind": "ashby",
+    "name": "sim",
+    "from": "yc",
+    "company": "Sim"
+  },
+  {
+    "kind": "ashby",
+    "name": "jeevyfabrication",
+    "from": "yc",
+    "company": "Jeevy Fabrication"
+  },
+  {
+    "kind": "ashby",
+    "name": "casco",
+    "from": "yc",
+    "company": "Casco"
+  },
+  {
+    "kind": "ashby",
+    "name": "lucis",
+    "from": "yc",
+    "company": "Lucis"
+  },
+  {
+    "kind": "ashby",
+    "name": "sygaldry-technologies",
+    "from": "yc",
+    "company": "Sygaldry Technologies"
+  },
+  {
+    "kind": "ashby",
+    "name": "eloquentai",
+    "from": "yc",
+    "company": "Eloquent AI"
+  },
+  {
+    "kind": "ashby",
+    "name": "lapel",
+    "from": "yc",
+    "company": "Lapel"
+  },
+  {
+    "kind": "ashby",
+    "name": "dedalus-labs",
+    "from": "yc",
+    "company": "Dedalus Labs"
+  },
+  {
+    "kind": "ashby",
+    "name": "agentmail",
+    "from": "yc",
+    "company": "AgentMail"
+  },
+  {
+    "kind": "ashby",
+    "name": "mangodesk",
+    "from": "yc",
+    "company": "MangoDesk"
+  },
+  {
+    "kind": "ashby",
+    "name": "halluminate",
+    "from": "yc",
+    "company": "Halluminate"
+  },
+  {
+    "kind": "ashby",
+    "name": "bootloop",
+    "from": "yc",
+    "company": "BootLoop"
+  },
+  {
+    "kind": "ashby",
+    "name": "flai",
+    "from": "yc",
+    "company": "Flai"
+  },
+  {
+    "kind": "ashby",
+    "name": "comena",
+    "from": "yc",
+    "company": "Comena"
+  },
+  {
+    "kind": "ashby",
+    "name": "relling",
+    "from": "yc",
+    "company": "Relling"
+  },
+  {
+    "kind": "ashby",
+    "name": "misolabs",
+    "from": "yc",
+    "company": "Miso Labs"
+  },
+  {
+    "kind": "ashby",
+    "name": "idler",
+    "from": "yc",
+    "company": "idler"
+  },
+  {
+    "kind": "ashby",
+    "name": "finto",
+    "from": "yc",
+    "company": "Finto"
+  },
+  {
+    "kind": "ashby",
+    "name": "fernstone",
+    "from": "yc",
+    "company": "Fernstone"
+  },
+  {
+    "kind": "ashby",
+    "name": "reacher",
+    "from": "yc",
+    "company": "Reacher"
+  },
+  {
+    "kind": "ashby",
+    "name": "fleetline",
+    "from": "yc",
+    "company": "Fleetline"
+  },
+  {
+    "kind": "ashby",
+    "name": "interfere",
+    "from": "yc",
+    "company": "Interfere"
+  },
+  {
+    "kind": "ashby",
+    "name": "veritus",
+    "from": "yc",
+    "company": "Veritus"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "burnt",
+    "from": "yc",
+    "company": "burnt"
+  },
+  {
+    "kind": "ashby",
+    "name": "nox-metals",
+    "from": "yc",
+    "company": "Nox Metals"
+  },
+  {
+    "kind": "ashby",
+    "name": "uplane",
+    "from": "yc",
+    "company": "Uplane"
+  },
+  {
+    "kind": "ashby",
+    "name": "hypercubic",
+    "from": "yc",
+    "company": "Hypercubic"
+  },
+  {
+    "kind": "ashby",
+    "name": "answerthis",
+    "from": "yc",
+    "company": "AnswerThis"
+  },
+  {
+    "kind": "ashby",
+    "name": "sf-tensor",
+    "from": "yc",
+    "company": "SF Tensor"
+  },
+  {
+    "kind": "ashby",
+    "name": "darwin",
+    "from": "yc",
+    "company": "Darwin"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "icarus",
+    "from": "yc",
+    "company": "Icarus"
+  },
+  {
+    "kind": "ashby",
+    "name": "generalastronautics",
+    "from": "yc",
+    "company": "General Astronautics"
+  },
+  {
+    "kind": "ashby",
+    "name": "diligencesquared",
+    "from": "yc",
+    "company": "DiligenceSquared"
+  },
+  {
+    "kind": "ashby",
+    "name": "moss",
+    "from": "yc",
+    "company": "Moss"
+  },
+  {
+    "kind": "ashby",
+    "name": "onerobot",
+    "from": "yc",
+    "company": "One Robot"
+  },
+  {
+    "kind": "ashby",
+    "name": "lance",
+    "from": "yc",
+    "company": "Lance"
+  },
+  {
+    "kind": "ashby",
+    "name": "asimov",
+    "from": "yc",
+    "company": "Asimov"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "clara",
+    "from": "yc",
+    "company": "Clara"
+  },
+  {
+    "kind": "ashby",
+    "name": "beyondreachlabs",
+    "from": "yc",
+    "company": "Beyond Reach Labs"
+  },
+  {
+    "kind": "ashby",
+    "name": "stilta",
+    "from": "yc",
+    "company": "Stilta"
+  },
+  {
+    "kind": "ashby",
+    "name": "parameter",
+    "from": "yc",
+    "company": "Parameter"
+  },
+  {
+    "kind": "ashby",
+    "name": "pax-historia",
+    "from": "yc",
+    "company": "Pax Historia"
+  },
+  {
+    "kind": "ashby",
+    "name": "cardboard",
+    "from": "yc",
+    "company": "Cardboard"
+  },
+  {
+    "kind": "ashby",
+    "name": "polymath",
+    "from": "yc",
+    "company": "Polymath"
+  },
+  {
+    "kind": "ashby",
+    "name": "humanarchive",
+    "from": "yc",
+    "company": "Human Archive"
+  },
+  {
+    "kind": "ashby",
+    "name": "pocket",
+    "from": "yc",
+    "company": "Pocket"
+  },
+  {
+    "kind": "ashby",
+    "name": "tsenta",
+    "from": "yc",
+    "company": "Tsenta"
+  },
+  {
+    "kind": "ashby",
+    "name": "brumby",
+    "from": "yc",
+    "company": "Brumby"
+  },
+  {
+    "kind": "ashby",
+    "name": "dispatch",
+    "from": "yc",
+    "company": "Dispatch"
+  },
+  {
+    "kind": "ashby",
+    "name": "klarify",
+    "from": "yc",
+    "company": "Klarify"
+  },
+  {
+    "kind": "ashby",
+    "name": "hedge",
+    "from": "yc",
+    "company": "Hedge"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "limrun",
+    "from": "yc",
+    "company": "Limrun"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "juno",
+    "from": "yc",
+    "company": "Juno"
+  },
+  {
+    "kind": "ashby",
+    "name": "complir",
+    "from": "yc",
+    "company": "Complir"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "openwork",
+    "from": "yc",
+    "company": "OpenWork"
+  },
+  {
+    "kind": "ashby",
+    "name": "marble",
+    "from": "yc",
+    "company": "Marble"
+  },
+  {
+    "kind": "ashby",
+    "name": "tenor",
+    "from": "yc",
+    "company": "Tenor"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "acquia",
+    "from": "remote-first",
+    "company": "Acquia",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "15five",
+    "from": "remote-first",
+    "company": "15Five",
+    "region": "americas-europe"
+  },
+  {
+    "kind": "lever",
+    "name": "90seconds",
+    "from": "remote-first",
+    "company": "90 Seconds",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "airbyte",
+    "from": "remote-first",
+    "company": "Airbyte",
+    "region": "europe"
+  },
+  {
+    "kind": "ashby",
+    "name": "alan",
+    "from": "remote-first",
+    "company": "Alan",
+    "region": "europe"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "alphasights",
+    "from": "remote-first",
+    "company": "AlphaSights>",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "appen-2",
+    "from": "remote-first",
+    "company": "Appen",
+    "region": "americas-europe"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "appinio",
+    "from": "remote-first",
+    "company": "Appinio",
+    "region": "europe"
+  },
+  {
+    "kind": "ashby",
+    "name": "astronomer",
+    "from": "remote-first",
+    "company": "Astronomer",
+    "region": "other"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "asana",
+    "from": "remote-first",
+    "company": "Asana",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "articulate",
+    "from": "remote-first",
+    "company": "Articulate",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "brave",
+    "from": "remote-first",
+    "company": "Brave",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "britecore",
+    "from": "remote-first",
+    "company": "BriteCore",
+    "region": "other"
+  },
+  {
+    "kind": "lever",
+    "name": "bounteous",
+    "from": "remote-first",
+    "company": "Bounteous",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "cabify",
+    "from": "remote-first",
+    "company": "Cabify",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "calibre",
+    "from": "remote-first",
+    "company": "Calibre",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "capchase",
+    "from": "remote-first",
+    "company": "Capchase",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "caremessage",
+    "from": "remote-first",
+    "company": "CareMessage",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "chainguard",
+    "from": "remote-first",
+    "company": "Chainguard",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "checkly",
+    "from": "remote-first",
+    "company": "Checkly",
+    "region": "other"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "circleci",
+    "from": "remote-first",
+    "company": "CircleCI",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "clickup",
+    "from": "remote-first",
+    "company": "ClickUp",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "close",
+    "from": "remote-first",
+    "company": "Close",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "collabora",
+    "from": "remote-first",
+    "company": "Collabora",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "comet",
+    "from": "remote-first",
+    "company": "Comet",
+    "region": "other"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "customerio",
+    "from": "remote-first",
+    "company": "Customer.io",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "dashlane",
+    "from": "remote-first",
+    "company": "Dashlane",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "datacamp",
+    "from": "remote-first",
+    "company": "DataCamp",
+    "region": "europe"
+  },
+  {
+    "kind": "ashby",
+    "name": "dave",
+    "from": "remote-first",
+    "company": "Dave",
+    "region": "other"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "datadog",
+    "from": "remote-first",
+    "company": "Datadog",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "ebury",
+    "from": "remote-first",
+    "company": "Ebury",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "epicgames",
+    "from": "remote-first",
+    "company": "Epic Games",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "fastly",
+    "from": "remote-first",
+    "company": "Fastly",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "extremenetworks",
+    "from": "remote-first",
+    "company": "Extreme Networks",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "fingerprint",
+    "from": "remote-first",
+    "company": "Fingerprint",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "fleetio",
+    "from": "remote-first",
+    "company": "fleetio",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "flip",
+    "from": "remote-first",
+    "company": "Flip",
+    "region": "other"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "generalassembly",
+    "from": "remote-first",
+    "company": "General Assembly",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "gitbook",
+    "from": "remote-first",
+    "company": "Gitbook",
+    "region": "other"
+  },
+  {
+    "kind": "ashby",
+    "name": "glitch",
+    "from": "remote-first",
+    "company": "Glitch",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "godaddy",
+    "from": "remote-first",
+    "company": "GoDaddy",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "gohiring",
+    "from": "remote-first",
+    "company": "GoHiring",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "findem",
+    "from": "remote-first",
+    "company": "Findem",
+    "region": "other"
+  },
+  {
+    "kind": "ashby",
+    "name": "helpscout",
+    "from": "remote-first",
+    "company": "Help Scout",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "gojob",
+    "from": "remote-first",
+    "company": "Gojob",
+    "region": "other"
+  },
+  {
+    "kind": "lever",
+    "name": "heetch",
+    "from": "remote-first",
+    "company": "Heetch",
+    "region": "europe"
+  },
+  {
+    "kind": "ashby",
+    "name": "hopper",
+    "from": "remote-first",
+    "company": "Hopper",
+    "region": "europe"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "honeycomb",
+    "from": "remote-first",
+    "company": "Honeycomb",
+    "region": "europe"
+  },
+  {
+    "kind": "ashby",
+    "name": "hubstaff",
+    "from": "remote-first",
+    "company": "Hubstaff",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "hudl",
+    "from": "remote-first",
+    "company": "Hudl",
+    "region": "europe"
+  },
+  {
+    "kind": "ashby",
+    "name": "instructure",
+    "from": "remote-first",
+    "company": "Instructure",
+    "region": "europe"
+  },
+  {
+    "kind": "ashby",
+    "name": "joor",
+    "from": "remote-first",
+    "company": "JOOR",
+    "region": "americas-europe"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "karat",
+    "from": "remote-first",
+    "company": "Karat",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "kestra",
+    "from": "remote-first",
+    "company": "Kestra",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "kindred",
+    "from": "remote-first",
+    "company": "Kindred",
+    "region": "europe"
+  },
+  {
+    "kind": "lever",
+    "name": "kinsta",
+    "from": "remote-first",
+    "company": "Kinsta",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "klaviyo",
+    "from": "remote-first",
+    "company": "Klaviyo",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "khanacademy",
+    "from": "remote-first",
+    "company": "Khan Academy",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "labelbox",
+    "from": "remote-first",
+    "company": "Labelbox",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "launchpotato",
+    "from": "remote-first",
+    "company": "Launch Potato",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "lifen",
+    "from": "remote-first",
+    "company": "Lifen",
+    "region": "europe"
+  },
+  {
+    "kind": "ashby",
+    "name": "lightspeed",
+    "from": "remote-first",
+    "company": "Lightspeed",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "liveperson",
+    "from": "remote-first",
+    "company": "LivePerson",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "locusrobotics",
+    "from": "remote-first",
+    "company": "Locus Robotics",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "luxor",
+    "from": "remote-first",
+    "company": "Luxor Technology",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "mapbox",
+    "from": "remote-first",
+    "company": "Mapbox",
+    "region": "americas-europe"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "mattermost",
+    "from": "remote-first",
+    "company": "Mattermost",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "metalab",
+    "from": "remote-first",
+    "company": "MetaLab",
+    "region": "other"
+  },
+  {
+    "kind": "lever",
+    "name": "mindful",
+    "from": "remote-first",
+    "company": "Mindful",
+    "region": "other"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "mixmax",
+    "from": "remote-first",
+    "company": "Mixmax",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "mongodb",
+    "from": "remote-first",
+    "company": "MongoDB",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "mux",
+    "from": "remote-first",
+    "company": "Mux",
+    "region": "other"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "muckrack",
+    "from": "remote-first",
+    "company": "Muck Rack",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "nearform",
+    "from": "remote-first",
+    "company": "Nearform",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "oddball",
+    "from": "remote-first",
+    "company": "Oddball",
+    "region": "other"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "okta",
+    "from": "remote-first",
+    "company": "Okta",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "octopusdeploy",
+    "from": "remote-first",
+    "company": "Octopus Deploy",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "openzeppelin",
+    "from": "remote-first",
+    "company": "OpenZeppelin",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "percona",
+    "from": "remote-first",
+    "company": "Percona",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "pleo",
+    "from": "remote-first",
+    "company": "Pleo",
+    "region": "americas-europe"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "platformsh",
+    "from": "remote-first",
+    "company": "platform.sh",
+    "region": "other"
+  },
+  {
+    "kind": "ashby",
+    "name": "primer",
+    "from": "remote-first",
+    "company": "Primer",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "quora",
+    "from": "remote-first",
+    "company": "Quora",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "prominentedge",
+    "from": "remote-first",
+    "company": "Prominent Edge",
+    "region": "other"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "rocketchat",
+    "from": "remote-first",
+    "company": "Rocket.Chat",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "renofi",
+    "from": "remote-first",
+    "company": "RenoFi",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "scandit",
+    "from": "remote-first",
+    "company": "Scandit",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "searchapi",
+    "from": "remote-first",
+    "company": "SearchApi",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "seatgeek",
+    "from": "remote-first",
+    "company": "SeatGeek",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "sonatype",
+    "from": "remote-first",
+    "company": "Sonatype",
+    "region": "worldwide"
+  },
+  {
+    "kind": "lever",
+    "name": "spreedly",
+    "from": "remote-first",
+    "company": "Spreedly",
+    "region": "other"
+  },
+  {
+    "kind": "ashby",
+    "name": "stickermule",
+    "from": "remote-first",
+    "company": "Sticker Mule",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "streamnative",
+    "from": "remote-first",
+    "company": "StreamNative",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "tailscale",
+    "from": "remote-first",
+    "company": "Tailscale",
+    "region": "americas-europe"
+  },
+  {
+    "kind": "lever",
+    "name": "sysdig",
+    "from": "remote-first",
+    "company": "Sysdig",
+    "region": "americas-europe"
+  },
+  {
+    "kind": "ashby",
+    "name": "temporal",
+    "from": "remote-first",
+    "company": "Temporal",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "testgorilla",
+    "from": "remote-first",
+    "company": "TestGorilla",
+    "region": "americas-europe"
+  },
+  {
+    "kind": "ashby",
+    "name": "ghost",
+    "from": "remote-first",
+    "company": "Ghost",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "tide",
+    "from": "remote-first",
+    "company": "Tide",
+    "region": "europe"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "thrivemarket",
+    "from": "remote-first",
+    "company": "Thrive Market",
+    "region": "other"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "toast",
+    "from": "remote-first",
+    "company": "Toast",
+    "region": "other"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "twilio",
+    "from": "remote-first",
+    "company": "Twilio",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "udacity",
+    "from": "remote-first",
+    "company": "Udacity",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "webfx",
+    "from": "remote-first",
+    "company": "WebFX",
+    "region": "worldwide"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "wizeline",
+    "from": "remote-first",
+    "company": "Wizeline",
+    "region": "worldwide"
+  },
+  {
+    "kind": "ashby",
+    "name": "workos",
+    "from": "remote-first",
+    "company": "WorkOS",
+    "region": "americas-europe"
+  },
+  {
+    "kind": "ashby",
+    "name": "yazio",
+    "from": "remote-first",
+    "company": "YAZIO",
+    "region": "europe"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "xpinc",
+    "from": "remote-first",
+    "company": "XP Inc.",
+    "region": "europe"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "zupinnovation",
+    "from": "remote-first",
+    "company": "Zup",
+    "region": "other"
+  },
+  {
+    "kind": "ashby",
+    "name": "lemfi",
+    "from": "africa"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "grey",
+    "from": "africa"
+  },
+  {
+    "kind": "ashby",
+    "name": "paymentology",
+    "from": "africa"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "jumia",
+    "from": "africa"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "fireblocks",
+    "from": "africa"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "ozow",
+    "from": "africa"
+  },
+  {
+    "kind": "lever",
+    "name": "moonpay",
+    "from": "africa"
+  },
+  {
+    "kind": "ashby",
+    "name": "m-kopa",
+    "from": "africa"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "branch",
+    "from": "africa"
+  },
+  {
+    "kind": "ashby",
+    "name": "ampersand",
+    "from": "africa"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "zola",
+    "from": "africa"
+  },
+  {
+    "kind": "lever",
+    "name": "tala",
+    "from": "africa"
+  },
+  {
+    "kind": "workable",
+    "name": "fairmoney",
+    "from": "africa"
+  },
+  {
+    "kind": "workable",
+    "name": "helium-health",
+    "from": "africa"
+  },
+  {
+    "kind": "workable",
+    "name": "kuda",
+    "from": "africa"
+  },
+  {
+    "kind": "ashby",
+    "name": "access",
+    "from": "africa"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "sterling",
+    "from": "africa"
+  },
+  {
+    "kind": "ashby",
+    "name": "sabi",
+    "from": "africa"
+  },
+  {
+    "kind": "ashby",
+    "name": "sycamore",
+    "from": "africa"
+  },
+  {
+    "kind": "ashby",
+    "name": "decagon",
+    "from": "africa"
+  },
+  {
+    "kind": "ashby",
+    "name": "Clera",
+    "from": "himalayas"
+  }
+]

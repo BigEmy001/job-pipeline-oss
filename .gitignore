@@ -1,0 +1,16 @@
+node_modules
+data
+.env
+.env.*
+.DS_Store
+*.log
+.tap.mjs
+.shot.mjs
+.insp.mjs
+!.env.example
+
+# your own details (copied from the *.example files by npm run setup)
+config/answers.json
+config/profile.json
+config/resume.html
+config/resume.pdf

@@ -1,0 +1,126 @@
+{
+  "roles": "(\"product designer\" OR \"ui/ux designer\" OR \"ux designer\" OR \"ui designer\" OR \"design engineer\" OR \"webflow designer\")",
+  "searches": [
+    {
+      "group": "Company job boards",
+      "label": "Greenhouse",
+      "q": "(site:boards.greenhouse.io OR site:job-boards.greenhouse.io) {roles} remote"
+    },
+    {
+      "group": "Company job boards",
+      "label": "Lever",
+      "q": "site:jobs.lever.co {roles} remote"
+    },
+    {
+      "group": "Company job boards",
+      "label": "Ashby",
+      "q": "site:jobs.ashbyhq.com {roles} remote"
+    },
+    {
+      "group": "Company job boards",
+      "label": "Workable",
+      "q": "site:apply.workable.com {roles} remote"
+    },
+    {
+      "group": "Company job boards",
+      "label": "Wellfound",
+      "q": "site:wellfound.com/jobs {roles} remote"
+    },
+    {
+      "group": "Career pages",
+      "label": "Join our team",
+      "q": "{roles} \"join our team\" \"remote\" intitle:careers"
+    },
+    {
+      "group": "Career pages",
+      "label": "Figma + design system",
+      "q": "\"product designer\" \"figma\" \"design system\" \"remote\" intitle:careers"
+    },
+    {
+      "group": "Career pages",
+      "label": "Worldwide / EMEA / Africa",
+      "q": "{roles} (\"worldwide\" OR \"EMEA\" OR \"anywhere\") remote intitle:careers"
+    },
+    {
+      "group": "Career pages",
+      "label": "Fintech",
+      "q": "{roles} (fintech OR payments) \"remote\" intitle:careers"
+    },
+    {
+      "group": "Big boards",
+      "label": "Indeed",
+      "q": "site:indeed.com {roles} remote"
+    },
+    {
+      "group": "Big boards",
+      "label": "Glassdoor",
+      "q": "site:glassdoor.com/job-listing {roles} remote"
+    },
+    {
+      "group": "Big boards",
+      "label": "LinkedIn jobs",
+      "q": "site:linkedin.com/jobs/view {roles} remote"
+    },
+    {
+      "group": "People hiring",
+      "label": "LinkedIn posts",
+      "q": "site:linkedin.com/posts \"hiring\" \"product designer\" remote"
+    },
+    {
+      "group": "People hiring",
+      "label": "X posts",
+      "q": "site:x.com \"hiring\" \"product designer\" remote"
+    },
+    {
+      "group": "People hiring",
+      "label": "Reddit [Hiring]",
+      "q": "(site:reddit.com/r/forhire OR site:reddit.com/r/DesignJobs) \"hiring\" designer"
+    }
+  ],
+  "links": [
+    {
+      "label": "JobWhisper",
+      "url": "https://www.jobwhisper.ai/jobs"
+    },
+    {
+      "label": "a16z portfolio jobs",
+      "url": "https://jobs.a16z.com/jobs?jobTypes=Design&remoteOnly=true"
+    },
+    {
+      "label": "Sequoia portfolio jobs",
+      "url": "https://jobs.sequoiacap.com/jobs?jobTypes=Design&remoteOnly=true"
+    },
+    {
+      "label": "Greylock portfolio jobs",
+      "url": "https://jobs.greylock.com/jobs"
+    },
+    {
+      "label": "Accel portfolio jobs",
+      "url": "https://jobs.accel.com/jobs"
+    },
+    {
+      "label": "YC Work at a Startup",
+      "url": "https://www.workatastartup.com/jobs?role=designer&remote=yes"
+    },
+    {
+      "label": "Remote Rocketship (design)",
+      "url": "https://www.remoterocketship.com/?jobTitle=Product+Designer"
+    },
+    {
+      "label": "Contra (design work, profile)",
+      "url": "https://contra.com"
+    },
+    {
+      "label": "Toptal Design (talent network)",
+      "url": "https://www.toptal.com/designers"
+    },
+    {
+      "label": "A.Team (talent network)",
+      "url": "https://www.a.team/"
+    },
+    {
+      "label": "Braintrust (talent network)",
+      "url": "https://www.usebraintrust.com/"
+    }
+  ]
+}
